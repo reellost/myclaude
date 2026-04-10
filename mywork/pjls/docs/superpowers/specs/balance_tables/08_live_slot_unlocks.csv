@@ -1,0 +1,4 @@
+slot_id,unlock_company_level,slot_name,slot_type,is_default_open
+1,1,主播主位,hero_fixed,true
+2,3,辅助直播位A,streamer,false
+3,5,辅助直播位B,streamer,false

@@ -1,0 +1,5 @@
+ad_id,ad_type,reward_target_type,reward_coeff,reward_duration_sec,daily_limit,unlock_chapter_id
+ad_offline_double,double,offline_gold,2.0,0,6,1
+ad_live_accelerate,accelerate,traffic,2.0,180,5,1
+ad_sales_burst,double,sales_gold,2.2,120,4,2
+ad_free_recruit,free,recruit,1.0,0,2,3

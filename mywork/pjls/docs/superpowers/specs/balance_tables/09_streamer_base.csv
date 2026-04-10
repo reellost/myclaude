@@ -1,0 +1,7 @@
+streamer_id,streamer_name,quality_type,style_tag,base_traffic,base_commerce_coeff,unlock_chapter_id,card_asset
+s001,甜妹助理,common,sweet,3.5,1.02,3,card_s001
+s002,元气舞担,common,dance,4.2,1.00,3,card_s002
+s003,冷静导购,rare,sales,3.8,1.12,3,card_s003
+s004,氛围姐姐,rare,lifestyle,5.0,1.08,4,card_s004
+s005,美妆达人,epic,beauty,4.6,1.18,4,card_s005
+s006,话题新星,epic,topic,6.0,1.10,5,card_s006

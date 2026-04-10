@@ -1,0 +1,6 @@
+task_id,task_type,target_value,reward_gold,reward_extra_type,reward_extra_value,refresh_type
+daily_01,upgrade_count,5,200,none,0,daily
+daily_02,sales_gold,3000,250,none,0,daily
+daily_03,watch_ad,1,300,none,0,daily
+daily_04,live_count,3,180,speed_sec,120,daily
+daily_05,share_count,1,150,traffic_pack,300,daily

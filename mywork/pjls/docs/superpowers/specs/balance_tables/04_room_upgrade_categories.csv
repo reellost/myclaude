@@ -1,0 +1,5 @@
+category_id,category_name,category_type,main_bonus_type,unlock_chapter_id
+device,基础设备,device,traffic,1
+decor,房间布置,decor,traffic,1
+atmosphere,氛围包装,atmosphere,traffic,2
+commerce_device,带货设备,commerce_device,commerce,2

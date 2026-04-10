@@ -1,0 +1,5 @@
+stage_visual_id,stage_name,min_room_score,bg_asset,decoration_asset,effect_asset
+room_stage_1,简陋直播角,0,bg_room_1,decor_room_1,effect_room_1
+room_stage_2,整洁直播角,20,bg_room_2,decor_room_2,effect_room_2
+room_stage_3,像样直播房,50,bg_room_3,decor_room_3,effect_room_3
+room_stage_4,精致工作室,90,bg_room_4,decor_room_4,effect_room_4

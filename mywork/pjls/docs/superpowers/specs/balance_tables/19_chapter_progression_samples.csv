@@ -1,0 +1,16 @@
+﻿chapter_id,milestone_order,milestone_name,expected_elapsed_min,hero_makeup_level,hero_skill_level,hero_outfit_level,room_device_level,room_decor_level,room_atmosphere_level,room_commerce_device_level,company_level,streamer_1_id,streamer_1_level,streamer_2_id,streamer_2_level,streamer_3_id,streamer_3_level,main_product_ids,recommended_focus,recommended_ad_trigger
+1,1,chapter_start,0-1,1,1,1,1,1,0,0,1,none,0,none,0,none,0,p001,先点妆容和设备拿第一笔收益,none
+1,2,chapter_mid,1-2,2,2,1,2,2,0,0,1,none,0,none,0,none,0,p001|p002,补技能和布置形成稳定出单,chapter_reward_double
+1,3,chapter_end,2-4,3,2,2,3,3,0,0,1,none,0,none,0,none,0,p002,完成个人起步准备像样直播房,chapter_reward_double
+2,1,chapter_start,4-6,3,2,2,3,3,1,1,2,none,0,none,0,none,0,p003,先点亮新解锁的房间项,offline_double
+2,2,chapter_mid,6-9,4,3,3,4,4,2,2,2,none,0,none,0,none,0,p003|p004,形成主角和房间双成长习惯,income_accelerate
+2,3,chapter_end,8-12,5,4,4,4,4,3,2,2,none,0,none,0,none,0,p004,把个人直播房做出风格感,income_accelerate
+3,1,chapter_start,12-15,5,4,4,4,4,3,2,2,none,0,none,0,none,0,p004|p005,先冲公司升级资源,offline_double
+3,2,chapter_mid,15-20,5,5,4,5,4,3,3,3,none,0,none,0,none,0,p005,冲公司3级并准备第一次招募,free_recruit
+3,3,chapter_end,18-25,6,6,5,5,5,4,4,3,s001,2,none,0,none,0,p005|p006,让首位主播成为女主辅助位,free_recruit
+4,1,chapter_start,25-30,6,6,5,5,5,4,4,3,s001,2,none,0,none,0,p006,先把首位主播稳定拉起来,income_accelerate
+4,2,chapter_mid,30-38,7,7,5,6,5,4,4,4,s001,2,s003,1,none,0,p006|p007,推第二商品位和第二主播位,sales_burst
+4,3,chapter_end,35-45,7,8,6,6,6,5,5,4,s001,3,s003,2,none,0,p007,建立双位团队的稳定收益结构,sales_burst
+5,1,chapter_start,45-55,7,8,6,6,6,5,5,4,s001,3,s003,2,none,0,p007,继续压主角技能和商品收益,offline_double
+5,2,chapter_mid,55-68,8,8,7,6,6,6,5,5,s001,3,s003,3,s005,1,p007|p008,冲公司5级并补第三位主播,free_recruit
+5,3,chapter_end,60-80,8,9,7,6,6,6,6,5,s001,4,s003,3,s005,2,p007|p008|p009,形成首版完整MCN小团队闭环,sales_burst

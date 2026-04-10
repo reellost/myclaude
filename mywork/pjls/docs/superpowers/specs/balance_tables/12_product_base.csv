@@ -1,0 +1,10 @@
+product_id,product_name,category_type,convert_rate,profit_coeff,unlock_chapter_id,sort_order
+p001,发圈套装,entry,0.22,0.90,1,1
+p002,手机支架,entry,0.20,1.05,1,2
+p003,平价唇釉,entry,0.18,1.22,2,3
+p004,零食礼盒,growth,0.16,1.55,2,4
+p005,居家香薰,growth,0.14,1.95,3,5
+p006,基础护肤套组,growth,0.12,2.35,3,6
+p007,轻奢彩妆盘,hit,0.09,3.40,4,7
+p008,家电小爆品,hit,0.07,4.60,5,8
+p009,联名礼盒,hit,0.06,5.40,5,9

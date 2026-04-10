@@ -1,0 +1,7 @@
+pool_id,streamer_id,unlock_chapter_id,unlock_company_level,weight,recruit_cost_gold,ad_free_available
+basic_pool,s001,3,3,30,1800,true
+basic_pool,s002,3,3,25,1800,true
+basic_pool,s003,3,3,18,2400,true
+basic_pool,s004,4,4,12,2400,true
+basic_pool,s005,4,4,10,3200,true
+basic_pool,s006,5,5,5,3200,true

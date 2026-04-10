@@ -1,0 +1,4 @@
+line_id,line_name,line_type,main_bonus_type,unlock_chapter_id,sort_order
+makeup,化妆,makeup,traffic,1,1
+skill,直播技能,skill,commerce,1,2
+outfit,穿搭,outfit,traffic,1,3

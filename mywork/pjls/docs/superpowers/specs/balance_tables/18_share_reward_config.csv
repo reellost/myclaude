@@ -1,0 +1,4 @@
+share_id,share_type,reward_type,reward_value,daily_limit,unlock_chapter_id
+share_poster,poster,traffic_pack,400,1,1
+share_assist,assist,free_recruit,1,1,3
+share_wait_skip,assist,speed_sec,300,2,3
